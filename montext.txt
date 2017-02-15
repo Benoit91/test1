@@ -1,5 +1,7 @@
 Hello world!
 
-Modif1 : HELLO WORLD!
+remove modif1!
 
 crazy_test_update : hello world!!!
+
+More info here!
